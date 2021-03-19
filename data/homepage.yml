@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "A gyógymód segít enyhíteni az ízületi fájdalmakat, és enyhíti a fizikai megterhelés utáni fáradtságot is"
+  title : "Ízületi táplálkozási krém"
   content : "Ha eltalál, nyújtsa ki a lábát vagy mozdítsa el a karját - itt a légyölő galóca is hasznot húz. Azoknak ajánljuk, akiknek ízületei reagálnak az időjárásra. A krém lassítja az öregedésüket és táplálja a bőrt."
   image : "images/banner.png"
   # button
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "A termékünkről"
-  content : "Légyölő galóca kivonat és Tambukan iszap alapján készült. Kissé folyékony, könnyen felvihető. Ami a hatékonyságot illeti, a vásárlók véleménye megoszlott: valaki csak ápolónak tartja, míg valakinek a krém már az első alkalmazáskor segít enyhíteni a fájdalmat. Mindazonáltal mindenki megjegyzi a pihentető aromát - a termék frissességet és virágillatot áraszt (kakukkfű és pacsuli illóolajainak összetételében)."
+  content : "A kondroitin-szulfát (kondroitin-szulfát) a porc fő szerkezeti összetevője és sejtjeinek természetes védője (kondroprotektora). Növeli a porc nedvességtartalmát, megakadályozza annak kiszáradását. Lassítja a csontszövet felszívódását (pusztulását), javítja a porcszövet foszfor-kalcium anyagcseréjét, serkenti az ízületi szövetek regenerálódását és javítja az ízületek kenésének minőségét."
   image : "images/about.png"
 
 
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "A termék használata?"
-  content : "Vigyen fel egy kis krémet a problémás területre, és masszírozó mozdulatokkal dörzsölje be, amíg kellemes meleget nem érez. A hatás fokozása érdekében a fűtött területet száraz ruhával lehet becsomagolni. Naponta 1-2 alkalommal alkalmazza."
+  content : "Alkalmazza a krémet könnyű körkörös mozdulatokkal 3-5 percig a testre, amíg teljesen felszívódik naponta 2-3 alkalommal. A krémet napi használatra szánják."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
