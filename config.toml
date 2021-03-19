@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://vosehun.vercel.app/"
 languageCode = "en"
 title = "Vosehun"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+3617062500"
 email = "djanmo@gmail.com"
 location = "Budapest, Kassai tér 12, 1142 Hungary"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://vosehun.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
